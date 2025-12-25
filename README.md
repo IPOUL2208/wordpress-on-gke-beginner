@@ -1,8 +1,8 @@
-# WordPress on Google Kubernetes Engine (GKE) – Practice
+# WordPress on Google Kubernetes Engine (GKE) – Beginner Project
 
 This project demonstrates how to deploy **WordPress on Google Kubernetes Engine (GKE)** using **Kubernetes manifests (YAML)**.
 
-It is created  for **beginners** who are new to:
+It is designed for **beginners** who are new to:
 - Google Cloud Platform (GCP)
 - Google Kubernetes Engine (GKE)
 - Kubernetes
@@ -11,7 +11,7 @@ By the end of this project, you will have a **publicly accessible WordPress webs
 
 ---
 
-##  Architecture Overview
+## 🏗 Architecture Overview
 
 The deployment consists of:
 
